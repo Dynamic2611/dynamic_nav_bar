@@ -1,0 +1,20 @@
+name: dynamic_nav_bar
+description: A customizable bottom navigation bar widget for Flutter.
+version: 0.0.1
+homepage: https://github.com/Dynamic2611/dynamic_nav_bar  # optional
+repository: https://github.com/Dynamic2611/dynamic_nav_bar
+issue_tracker: https://github.com/Dynamic2611/dynamic_nav_bar/issues
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,15 @@
+name: dynamic_nav_bar_example
+description: Example project for dynamic_nav_bar
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dynamic_nav_bar:
+    path: ../
+
+flutter:
+  uses-material-design: true
