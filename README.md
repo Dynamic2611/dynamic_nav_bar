@@ -23,4 +23,4 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  dynamic_nav_bar: ^0.0.1
+  dynamic_nav_bar: ^0.0.3
