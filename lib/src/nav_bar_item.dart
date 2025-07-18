@@ -1,14 +1,13 @@
-// lib/nav_bar_item.dart
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 
 class NavBarItem {
   final IconData icon;
-  final String text;
-  final VoidCallback onTap;
+  final String label;
+  final VoidCallback onPressed; // Optional operation when tapped
 
   NavBarItem({
     required this.icon,
-    required this.text,
-    required this.onTap,
+    required this.label,
+    required this.onPressed,
   });
 }
