@@ -3,7 +3,7 @@
 
 ## 0.0.2
 
-## 0.0.02 - 2025-07-17
+## 0.0.3 - 2025-07-17
 
 - Added NeumorphicNavBar, CenterFloatingNavBar ,GlassBlurNavBar, RoundedSegmentNavBar
 - Enabled passing parameters directly to navBarWidget
