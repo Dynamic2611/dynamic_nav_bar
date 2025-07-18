@@ -3,7 +3,6 @@
 
 ## [0.0.2] - 2025-07-17
 
-- Added GlassBlurNavBar (previously Style4Widget)
-- Enabled passing parameters directly to navBarType
-- Improved API flexibility and usability
+- Added NeumorphicNavBar, CenterFloatingNavBar ,GlassBlurNavBar, RoundedSegmentNavBar
+- Enabled passing parameters directly to navBarWidget
 - Minor cleanup and formatting improvements
